@@ -1,0 +1,19 @@
+.ar{
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+    text-align: center;
+    font-size:xx-large;
+}
+html{
+    background-color: black;
+}
+#at{
+    width: 100%;
+   
+    margin-top: 65%;
+}
+
+#Arbaz{
+    border: 2px solid white;
+    width: 100%;
+}
